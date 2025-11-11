@@ -4,3 +4,4 @@ Practicas para aprendizaje automático Asignatura CUNEF
 Practicas Actuales:
 
 - Practica 2 - Regresion Lineal
+- Practica 3 - Clasificadores
