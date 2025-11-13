@@ -5,4 +5,5 @@ Practicas Actuales:
 
 - Practica 2 - Regresion Lineal
 - Practica 3 - Clasificadores
-- Practica 4
+- Practica 4 - K-Means
+- 
